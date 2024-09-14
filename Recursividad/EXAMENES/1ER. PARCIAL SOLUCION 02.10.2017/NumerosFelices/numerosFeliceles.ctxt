@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=numerosFeliceles
+comment1.params=n
+comment1.target=boolean\ esFeliz(int)
+comment2.params=n
+comment2.target=int\ descomposicion(int)
+comment3.params=n\ aux
+comment3.target=boolean\ NumeroFeliz(int,\ int)
+numComments=4

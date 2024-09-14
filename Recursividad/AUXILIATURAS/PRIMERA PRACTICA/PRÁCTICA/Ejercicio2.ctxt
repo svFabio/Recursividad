@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ cantidad\ de\ flexiones\:\r\n\ 1\ --->\ \ 0\ \ PB\ \:\ cantFlex(1)\ \=\ 0\r\n\ 2\ --->\ \ 2\ \ PR\ \:\ cantFlex(2)\ \=\ 2\ +\ cantFlex(1)\r\n\ 3\ --->\ \ 6\ \ PR\ \:\ cantFlex(3)\ \=\ 4\ +\ cantFlex(2)\r\n\ 4\ --->\ 14\ \ PR\r\n\ 5\ --->\ 30\ \ PR\r\n
+comment1.params=dia
+comment1.target=int\ cantFlexiones(int)
+comment2.params=dia\ exp\ cont
+comment2.target=int\ cantFlexiones(int,\ int,\ int)
+numComments=3

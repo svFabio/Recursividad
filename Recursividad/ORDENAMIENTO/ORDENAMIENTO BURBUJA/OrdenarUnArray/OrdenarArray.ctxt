@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OrdenarArray
+comment0.text=\r\n\ \r\n\ decir\ "hasta"\ es\ inclusivo,\ es\ decir\ >\=\ o\ <\=\r\n
+comment1.params=arr
+comment1.target=int[]\ ordenar(int[])
+comment2.params=arr
+comment2.target=int[]\ ordenaRec(int[])
+numComments=3

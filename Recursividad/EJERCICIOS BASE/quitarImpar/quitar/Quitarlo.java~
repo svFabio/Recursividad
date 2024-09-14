@@ -1,0 +1,7 @@
+
+/**
+
+ */
+public class Quitarlo{
+   return quitarImpar(cad, cad.length);
+}

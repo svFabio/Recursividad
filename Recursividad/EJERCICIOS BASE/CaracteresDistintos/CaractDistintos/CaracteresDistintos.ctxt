@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CaracteresDistintos
+comment0.text=\r\n\ Unicornio\ \ \r\n\ \r\n
+comment1.params=cad
+comment1.target=boolean\ verificarCadena(java.lang.String)
+comment2.params=cad\ pos\ aux
+comment2.target=boolean\ verificarCadena(java.lang.String,\ int,\ java.lang.String)
+numComments=3

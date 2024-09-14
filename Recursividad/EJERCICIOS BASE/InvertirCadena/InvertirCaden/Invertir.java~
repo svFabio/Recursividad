@@ -1,0 +1,11 @@
+
+/**
+ * INVERTIR UNA CADENA
+ * 
+ * VACA ---> ACAV
+ */
+public class Invertir {
+    public String Invertir(){
+    }
+    
+}

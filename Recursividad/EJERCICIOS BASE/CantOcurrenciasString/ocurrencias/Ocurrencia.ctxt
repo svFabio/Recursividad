@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ocurrencia
+comment1.params=palabra\ x
+comment1.target=int\ Buscar(java.lang.String,\ char)
+comment2.params=palabra\ x\ pos
+comment2.target=int\ Buscar(java.lang.String,\ char,\ int)
+numComments=3

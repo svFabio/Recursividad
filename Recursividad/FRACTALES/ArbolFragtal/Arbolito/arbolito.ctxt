@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=arbolito
+comment0.text=\r\n\ n0\ \=\ 1\r\n\ n1\ \=\ 5\r\n\ n2\ \=\ 21\r\n\ n3\ \=\ 85\ \r\n
+comment1.params=n
+comment1.target=int\ palitos(int)
+numComments=2

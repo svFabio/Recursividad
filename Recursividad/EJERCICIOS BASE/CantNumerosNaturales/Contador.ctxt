@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Contador
+comment0.text=\r\n\ PARTE\ RECURSIVA\ DE\ 11,13\r\n\ PARTE\ B\u00C1SICA\ n\ \=\ [1,9]\ PARA\ QUE\ SEA\ SOLO\ UN\ DIGITO\ \r\n
+comment1.params=n
+comment1.target=int\ ContarDigito(int)
+numComments=2

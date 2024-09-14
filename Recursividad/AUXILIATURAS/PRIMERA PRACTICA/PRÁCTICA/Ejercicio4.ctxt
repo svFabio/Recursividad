@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=estaturas
+comment1.target=int\ cantMenor(int[])
+comment2.params=estaturas\ indice\ menor\ contador
+comment2.target=int\ cantMenorAux(int[],\ int,\ int,\ int)
+comment3.params=estaturas
+comment3.target=int\ menorEstatura(int[])
+comment4.params=estaturas\ indice\ minActual
+comment4.target=int\ menorEstaturaAux(int[],\ int,\ int)
+numComments=5

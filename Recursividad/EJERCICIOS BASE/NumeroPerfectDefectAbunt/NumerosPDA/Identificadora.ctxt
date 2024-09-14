@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Identificadora
+comment0.text=\r\n\ NUMERO\ PERFECTO.-\ \ Ejemplo\ N\ \=\ 6\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 6\ --->\ 1\ ,\ 2\ ,\ 3\ ---->\ 1\ +\ 2\ +\ 3\ \=\ 6\ //\r\n\ \r\n\ NUMERO\ DEFECTIVO.-\ Ejemplo\ N\ \=\ 15\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 15\ --->\ 1,3,5\ --->\ 1+3+5\ \=\ 9\ --->\ 9\ <\ 15\ //\r\n\ \r\n\ NUMERO\ ABUNDANTE.-\ Ejemplo\ N\ \=\ 12\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 12\ --->\ 1,2,3,4,6\ --->\ 1+2+3+4+6\ \=\ 16\ -->\ 16\ >\ 12\ //\r\n
+comment1.params=n
+comment1.target=java.lang.String\ Identificar(int)
+comment2.params=n\ divisor
+comment2.target=int\ Sumar(int,\ int)
+numComments=3

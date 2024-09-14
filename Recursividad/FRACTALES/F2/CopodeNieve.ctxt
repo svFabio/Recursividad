@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CopodeNieve
+comment0.text=\r\n\ Analisis\ \r\n\ nivel(0)\ \=\ 3\r\n\ nivel(1)\ \=\ 6\r\n\ nivel(2)\ \=\ 18\r\n\ nivel(3)\ \=\ 66\r\n\ \r\n\ \r\n\ \r\n
+comment1.params=nivel
+comment1.target=int\ Copito(int)
+comment2.params=nivel\ expo
+comment2.target=int\ Copito(int,\ int)
+comment3.params=nivel
+comment3.target=int\ CopitoUnicornio(int)
+numComments=4

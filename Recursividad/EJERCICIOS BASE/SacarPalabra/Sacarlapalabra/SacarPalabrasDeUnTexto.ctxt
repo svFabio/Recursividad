@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SacarPalabrasDeUnTexto
+comment0.text=\r\n\ joder\ se\ acerca\ el\ examen\ ---\ {joder,se,acerca,el,examen}\r\n\ n\ \:\ tama\u00F1o\ \r\n\ k\ \:\ limite\r\n
+comment1.params=texto
+comment1.target=java.util.ArrayList\ sacarPal(java.lang.String)
+comment2.params=texto\ compuesto\ i\ k\ res
+comment2.target=java.util.ArrayList\ sacarPal(java.lang.String,\ java.lang.String,\ int,\ int,\ java.util.ArrayList)
+numComments=3

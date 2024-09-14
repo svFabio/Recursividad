@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CombinacionImpar
+comment1.params=n\ impares
+comment1.target=void\ combinar(int,\ int[])
+comment2.params=i\ impares\ candidato\ n
+comment2.target=void\ combinaciones(int,\ int[],\ int[],\ int)
+comment3.params=k\ n\ impares\ cand\ pos
+comment3.target=void\ combinarNumeros(int,\ int,\ int[],\ int[],\ int)
+comment4.params=impares\ cand\ i
+comment4.target=int\ suma(int[],\ int[],\ int)
+comment5.params=cand\ i
+comment5.target=void\ imprimir(int[],\ int)
+numComments=6

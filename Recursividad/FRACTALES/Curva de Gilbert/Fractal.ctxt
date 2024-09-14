@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fractal
+comment0.text=\r\n\ intentando\ hacer\ la\ curva\ de\ gilb\r\n\ ert\r\n\ n0\ \=\ 3\r\n\ n1\ \=\ 13\ \ \=\ f(n-1)*4)+1\ \ \ \ \ 3*4\ \ +1\ \r\n\ n2\ \=\ 51\ \ \=\ f(n-1)*4)-1\ \ \ \ \ 13*4\ -1\r\n\ n3\ \=\ 205\ \=\ f(n-1)*4)+1\ \ \ \ \ 51*4\ +1\r\n\ n4\ \=\ 819\ \=\ f(n-1)*4)-1\ \r\n
+comment1.params=n
+comment1.target=int\ Fractal(int)
+numComments=2

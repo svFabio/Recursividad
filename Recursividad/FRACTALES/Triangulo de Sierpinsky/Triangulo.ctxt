@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment0.text=\ \r\n\ \ n\ \=\ 0\ \ \ \ \ 1\r\n\ \ n\ \=\ 1\ \ \ \ \ 5\ \ \r\n\ \ n\ \=\ 2\ \ \ \ \ 17\r\n\ \ n\ \=\ 3\ \ \ \ \ 53\r\n\ \ n\ \=\ 4\ \ \ \ \ 161\r\n\ \ \r\n
+comment1.params=n
+comment1.target=int\ Triangulo(int)
+comment2.params=n\ pow
+comment2.target=int\ Triangulo(int,\ int)
+numComments=3

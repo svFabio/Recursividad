@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Factorial
+comment0.text=\r\n\ \ como\ CC\:\ n\ debe\ permanecer\ a\ Z\ positivos\r\n
+comment1.params=n
+comment1.target=int\ factorialCalc(int)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Divisible
+comment0.text=\r\n\ n\ \=\ 2341675\ -->\ (5\ +\ 6+\ 4\ +\ 2)-\ (7\ +\ 3\ +\ 3)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ pos\ par\ \ \ \ \ \ \ \ \ menos\ por\ par\r\n
+comment1.params=n
+comment1.target=boolean\ esDivisible11(int)
+comment2.params=n\ i\ sumador
+comment2.target=int\ suma(int,\ int,\ int)
+numComments=3

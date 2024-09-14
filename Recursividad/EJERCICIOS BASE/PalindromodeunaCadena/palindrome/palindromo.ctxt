@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=palindromo
+comment0.text=\r\n\r\n
+comment1.params=palabra
+comment1.target=boolean\ esPalindromo(java.lang.String)
+comment2.params=palabra\ i\ k
+comment2.target=boolean\ esPalindromo(java.lang.String,\ int,\ int)
+numComments=3

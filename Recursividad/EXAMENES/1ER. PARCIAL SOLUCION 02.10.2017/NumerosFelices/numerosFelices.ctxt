@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=numerosFelices
+comment0.text=\r\n\ \ \ \ \ (30\ Puntos)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=n
+comment1.target=boolean\ NumeroFeliz(int)
+comment2.params=n\ resultado
+comment2.target=int\ cuadrados(int,\ int)
+comment3.params=n\ nCopy
+comment3.target=boolean\ NumeroFeliz(int,\ int)
+numComments=4

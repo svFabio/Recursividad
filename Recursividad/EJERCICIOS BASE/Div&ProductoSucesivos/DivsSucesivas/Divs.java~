@@ -1,0 +1,18 @@
+
+/**
+ *  
+ */
+public class Divs
+{
+    public int Division(int dividendo, int divisor){
+        int res;
+        if( dividendo < divisor){
+            res = 0;
+        }else{
+            dividendo = dividendo - divisor;
+                          2             1           1
+            res = 1 + Division(dividendo,divisor); 
+        }
+        return res;
+    }
+}

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rotacion
+comment0.text=\r\n\ si\ n\ \=\ 12345\ y\ r\ \=\ 1\r\n\ 12345\ %\ 10\ \=\ 5\ \ y\ 12345/10\ \=\ 1234\r\n\ res\ \=\ 51234\r\n\ \ \ si\ nos\ dan\ n\ \=\ x\ \ y\ \ r\ \=\ 0\ \ devolver\ mismo\ numero\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=numero\ rotaciones
+comment1.target=int\ rotarNumero(int,\ int)
+comment2.params=numero\ rotaciones\ mult
+comment2.target=int\ rotarNumero(int,\ int,\ int)
+comment3.params=numero\ mult
+comment3.target=int\ rotarDigito(int,\ int)
+comment4.params=n
+comment4.target=int\ contar(int)
+comment5.params=a\ b
+comment5.target=int\ potencia(int,\ int)
+numComments=6

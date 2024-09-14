@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=fibonacci
+comment0.text=\r\n\ CC\:\ n\ pertenece\ a\ los\ Z\ positivos\r\n\ PB\:\ n\ \=\ 0\ --->\ 0\ |\ \ n\ \=\ 1\ --->\ 1\r\n\ PR\:\ n\ \ \ \ \ \ \ \ \ \ \ \ |\ \ fibonaci\ n\ es\ igual\ a\ n-2\ +\ n-1\r\n
+comment1.params=n
+comment1.target=int\ fibo(int)
+numComments=2

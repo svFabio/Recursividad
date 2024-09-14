@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ConvertBin
+comment0.text=\r\n\ \ \ \r\n
+comment1.params=numero
+comment1.target=int\ transformar(int)
+comment2.params=numero\ mult
+comment2.target=int\ transformar(int,\ int)
+numComments=3

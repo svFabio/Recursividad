@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PalindromoA_miManera
+comment0.text=\r\n\r\n
+comment1.params=palabra
+comment1.target=boolean\ Palindromo(java.lang.String)
+comment2.params=palabra
+comment2.target=java.lang.String\ Invertir(java.lang.String)
+comment3.params=palabra\ pos
+comment3.target=java.lang.String\ Invertir(java.lang.String,\ int)
+numComments=4

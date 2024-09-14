@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ProductoSuc
+comment0.text=\r\n\ "a"\ es\ un\ numero\ que\ va\ a\ sumarse\ "b"\ veces\ \r\n
+comment1.params=a\ b
+comment1.target=int\ Productode(int,\ int)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Merge
+comment0.text=\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 7,1,3,6,2,4,8\r\n\ \ \ \ ArrMitad1\ 7,1,3,6\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ArrMitad1\ 2,4,8\r\n\ \ \ pos\ \ \ \ \ \ \ \ 0\ 1\ 2\ 3\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 0\ 1\ 2\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ saca\ mitad\ 0+1/2\ \=\ 0\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ arr\ en\ la\ pos\ 0\ es\ 7\r\n\ \ \ 7,1\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 3,6\r\n\ \ \ Mitad\ de\ 7\ ,\ 1\r\n\ \ \ como\ 7\ es\ solo\ haz\r\n\ \ \ mezcla\r\n\ \ \ 7\ ---\ 1\ MEZCLA\ \ \ \ \ \ \ \ \ \ 3\ ---\ 6\r\n\ \ \ 1,7\ \ \ \ \ RESULTADO\ \ \ \ \ \ \ 3,6\ Arreglo\r\n\ \ \ resultado\ se\ cambia\ \ \ \ \ ordenado\r\n\ \ \ en\ arrMitad\r\n
+comment1.params=arr
+comment1.target=void\ ordenarMezcla(int[])
+comment2.params=arr\ ini\ fin
+comment2.target=void\ ordenarMezcla(int[],\ int,\ int)
+comment3.params=ini\ arr\ i\ mitadIzq\ j\ mitadDer
+comment3.target=void\ mezclar(int,\ int[],\ int,\ int[],\ int,\ int[])
+comment4.params=ini\ arr\ fin\ i\ aux
+comment4.target=void\ llenar(int,\ int[],\ int,\ int,\ int[])
+numComments=5

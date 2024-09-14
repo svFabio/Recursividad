@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Binario_A_mi_Forma
+comment0.text=\r\n\ EJERCICIO\ DE\ COVERSION\ A\ BINARIO\ \r\n
+comment1.params=n
+comment1.target=int\ bin(int)
+comment2.params=n\ multi
+comment2.target=int\ bin(int,\ int)
+numComments=3

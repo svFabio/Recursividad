@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Primo
+comment1.params=n
+comment1.target=boolean\ esPrimo(int)
+comment2.params=n\ div
+comment2.target=boolean\ esPrimo(int,\ int)
+numComments=3

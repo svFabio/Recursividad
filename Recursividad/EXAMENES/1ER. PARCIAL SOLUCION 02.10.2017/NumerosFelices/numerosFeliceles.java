@@ -1,0 +1,28 @@
+public class numerosFeliceles{
+    
+    public boolean esFeliz(int n){ //esta n no cambia nunca
+        return NumeroFeliz(n,descomposicion(n));
+    }
+    private int descomposicion(int n){ //esta n si cambia
+        int res;
+        if(n < 10){
+            res = n*n;
+        }else{
+            int dig = n%10;
+            res = dig * dig + descomposicion(n/10);
+        }
+        return res;
+    }
+    private boolean NumeroFeliz(int n, int aux){ //esta n si cambia
+            boolean res;    
+            if(aux == n){
+               return false;
+            }else if(aux == 1){
+                return true;
+            }else{
+                res = NumeroFeliz(n,descomposicion(aux)) ;
+            }
+            return res;
+    }
+}
+

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FactoresPrimos
+comment1.params=n
+comment1.target=java.util.ArrayList\ factoresPrimosR(int)
+comment2.params=n
+comment2.target=boolean\ esPrimoR(int)
+comment3.params=divisorActual\ n\ cantDiv
+comment3.target=boolean\ esPrimoR(int,\ int,\ int)
+comment4.params=n\ d\ factores
+comment4.target=void\ factoresPrimosR(int,\ int,\ java.util.ArrayList)
+numComments=5
